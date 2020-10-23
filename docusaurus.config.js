@@ -2,7 +2,7 @@ module.exports = {
   title: 'Todo List',
   tagline: 'Official documentation',
   url: 'https://ajacquierbret.github.io',
-  baseUrl: '/build/',
+  baseUrl: '/todo-list-docs/',
   favicon: 'favicon.ico',
   onBrokenLinks: 'throw',
   organizationName: 'ajacquierbret',
