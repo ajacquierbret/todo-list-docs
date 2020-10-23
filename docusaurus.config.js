@@ -1,8 +1,8 @@
 module.exports = {
   title: 'Todo List',
   tagline: 'Official documentation',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://ajacquierbret.github.io',
+  baseUrl: '/build/',
   favicon: 'favicon.ico',
   onBrokenLinks: 'throw',
   organizationName: 'ajacquierbret',
