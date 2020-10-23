@@ -3,15 +3,16 @@ module.exports = {
   tagline: 'Official documentation',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
+  favicon: 'favicon.ico',
   onBrokenLinks: 'throw',
   organizationName: 'ajacquierbret',
-  projectName: 'todo-list-app',
+  projectName: 'todo-list-docs',
   themeConfig: {
     navbar: {
       title: 'TODO LIST',
       logo: {
         alt: 'TODO LIST',
-        src: 'nothing.png',
+        src: '/img/logo.svg',
       },
       items: [
         {

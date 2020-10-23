@@ -8,7 +8,7 @@ sidebar_label: Performance Audit
 
 ##### Audited application : **http://todolistme.net**
 
-![Capture d’écran 2020-10-16 à 13.31.13](static/img/Capture d'écran 2020-10-16 à 13.31.13.png)
+![Capture d’écran 2020-10-16 à 13.31.13](/img/screenshot-1.png)
 
 
 ### Outils de mesure
@@ -23,9 +23,9 @@ sidebar_label: Performance Audit
 
 ### Performances
 
-![Capture d’écran 2020-10-16 à 13.48.58](/Users/a.jacquier.bret/Documents/OPENCLASSROOMS/P8/todo-list-doc/static/img/Capture d'écran 2020-10-16 à 13.48.58.png)
+![Capture d’écran 2020-10-16 à 13.48.58](/img/screenshot-2.png)
 
-![Capture d’écran 2020-10-16 à 13.47.47](/Users/a.jacquier.bret/Documents/OPENCLASSROOMS/P8/todo-list-doc/static/img/Capture d'écran 2020-10-16 à 13.47.47.png)
+![Capture d’écran 2020-10-16 à 13.47.47](/img/screenshot-3.png)
 
 
 
@@ -79,7 +79,7 @@ Le temps nécessaire au chargement des ressources HTML, Javascript, CSS, ainsi q
 
 ## CONCLUSION DE L’AUDIT
 
-![Capture d’écran 2020-10-23 à 13.03.10](/Users/a.jacquier.bret/Documents/OPENCLASSROOMS/P8/todo-list-doc/static/img/Capture d'écran 2020-10-23 à 13.03.10.png)
+![Capture d’écran 2020-10-23 à 13.03.10](/img/screenshot-4.png)
 
 
 
